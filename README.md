@@ -1,5 +1,6 @@
 # Foorbar
-Foorbar is a Python library for dealing with word pluralization
+
+Foobar is a Python library for dealing with word pluralization
 
 ## Installation
 ---
@@ -9,7 +10,6 @@ Use the package manager [pip]() to install foobar
 
 ## Usage
 ---
-
 ```
 import foobar 
 
@@ -27,4 +27,3 @@ please make sure to tests as appropriate.
 ## License
 ---
 [MIT]()
-
