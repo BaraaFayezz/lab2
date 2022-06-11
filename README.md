@@ -27,4 +27,7 @@ please make sure to tests as appropriate.
 ## License
 ---
 [MIT]()
+<<<<<<< HEAD
 
+=======
+>>>>>>> c5e5f947ecbcae9d2e02f17d63ae8ea414a06ebd
